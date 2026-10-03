@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of jiajia9190/geo-weather.** Not for installation: use [Packagist](https://packagist.org/packages/jiajia9190/geo-weather) or the [upstream repository](https://github.com/jiajia9190/geo-weather).
 
-**0** versions archived · Latest: [`1111`](https://github.com/flarchive/jiajia9190-geo-weather/tree/archive/v1111) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`1111`](https://github.com/flarchive/jiajia9190-geo-weather/tree/archive/v1111) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1111` | 2022-12-10 | `^1.0` | [Browse](https://github.com/flarchive/jiajia9190-geo-weather/tree/archive/v1111) |
 
 Catalog entry: [packages/jiajia9190-geo-weather.json](https://github.com/flarchive/archive-index/blob/main/packages/jiajia9190-geo-weather.json)
 
